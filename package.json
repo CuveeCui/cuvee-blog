@@ -1,0 +1,19 @@
+{
+  "name": "cuvee-blog",
+  "version": "1.0.0",
+  "description": "A blog from CuveeCui",
+  "main": "index.js",
+  "author": "cuvee",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build --prefix-paths",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^2.18.25",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}

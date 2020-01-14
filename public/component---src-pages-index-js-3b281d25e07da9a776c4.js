@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(e,n,t){"use strict";t.r(n);var c=t("q1tI"),u=t.n(c);n.default=function(){return u.a.createElement("div",null,u.a.createElement("h1",null,"Welcome to CuveeCui's blog space!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3b281d25e07da9a776c4.js.map
